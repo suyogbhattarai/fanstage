@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --font-primary: 'Poppins', sans-serif;
+  --font-secondary: 'Montserrat', sans-serif;
+  --orange:#ED4820;
+  --white:#FEFDFE;
+  --purple:#17121F;
+  --gray:#99A1AF;
+}
+
+*{
+font-family: var(--font-primary);
+list-style: none;
+
+
+}
+
+body{
+    background-color: #17121F;
+    color: #FEFDFE;
+    
+}
