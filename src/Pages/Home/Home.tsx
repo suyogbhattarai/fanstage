@@ -7,8 +7,9 @@ function Home() {
     <>
     
     <Header/>
-<main className=' mx-10 my-10'>
+<main className=' mx-10 my-10 mt-30'>
  <Banner />
+  <Banner />
 </main>
    
     </>
